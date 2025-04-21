@@ -203,10 +203,7 @@ body{
     #clifford{
         grid-area: 1/1/2/3;
     }
-    #clifford p{
-        width: 48rem;
-    }
-    
+
     
     #walters{
         grid-area: 1/3/2/4;
@@ -217,9 +214,7 @@ body{
     #abrams{
         grid-area: 2/2/3/4;
     }
-    #abrams p{
-        width: 48rem;
-    }
+   
     #abrams strong{
         font-size: 2rem;
     }
